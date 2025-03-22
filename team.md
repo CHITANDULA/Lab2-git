@@ -1,1 +1,2 @@
-"Team lead: Developer A" 
+Team lead: Lawrence Chitandula
+Team member: Chilufya Chulu
